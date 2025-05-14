@@ -9,14 +9,14 @@
 Sou estudante de Sistemas de Informação com experiência em projetos acadêmicos e extracurriculares nas áreas de desenvolvimento web, mobile e APIs. Estou sempre buscando aprender novas tecnologias e praticar através de projetos práticos. Tenho familiaridade com metodologias ágeis, bancos de dados relacionais e não relacionais.
 
 ## 🌐 Entre em contato
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
-(https://discord.gg/Akemi#1617)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/akemi1617)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skrd_km) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skrd_km)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Luana Akemi Sakurada) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luana-akemi-sakurada)
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akemiskrd@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akemiskrd@gmail.com)
+
 
 ## 💻 Tecnologias & Ferramentas:
 ### 🚀 Linguagens de Programação
@@ -38,7 +38,9 @@ Sou estudante de Sistemas de Informação com experiência em projetos acadêmic
 
 ## 📊 Status Github:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luana-akemi-sakurada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luana-akemi-sakurada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</p>
 
 
 ---
