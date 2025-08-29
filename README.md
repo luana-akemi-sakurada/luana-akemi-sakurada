@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou a Akemi!
 
-🎓 Estudante de **Sistemas de Informação** (5º período)  
+🎓 Estudante de **Sistemas de Informação** (6º período)  
 💻 Apaixonada por desenvolvimento web, mobile e backend  
-🚀 Buscando oportunidades de estágio em desenvolvimento de software
 
 ## 🌟 Sobre mim
 
